@@ -1,0 +1,13 @@
+mmall.iml
+*.class
+.idea/
+/.idea/
+.settings
+.war
+target/
+/idea/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
